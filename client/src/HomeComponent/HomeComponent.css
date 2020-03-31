@@ -1,0 +1,28 @@
+.heading {
+  background-image: linear-gradient(to right, #0f193d, #2c2f62, #1a2753);
+  padding: 20px;
+  padding-bottom: 20px;
+}
+h1 h5 {
+  color: white;
+  text-align: center;
+}
+
+.meaning {
+  padding: 30px;
+}
+
+.definition {
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  height: 220px;
+  background-color: rgb(224, 224, 224);
+}
+.footer {
+  margin-top: 20px;
+  padding-top: 30px;
+}
+.card-text {
+  text-align: inherit;
+}

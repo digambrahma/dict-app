@@ -1,0 +1,19 @@
+.addheading {
+  background-image: linear-gradient(to right, #0f193d, #2c2f62, #1a2753);
+  padding: 20px;
+  padding-bottom: 60px;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.container-md {
+  padding: 40px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+sup.required {
+  color: #d64242;
+  font-size: 95%;
+  top: -2px;
+}
